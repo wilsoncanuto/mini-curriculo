@@ -1,0 +1,146 @@
+#nome
+{
+    position: relative;
+    text-align: center;
+    padding-top: 13%;
+}
+#borda
+{
+    margin: auto;
+    width: 800px;
+    height: 100%;
+    border: 2px solid black;
+    background-color: white;
+}
+#cabecalho
+{
+    overflow: auto;
+}
+img
+{
+    float: right;
+    width: 25%;
+    padding: 10px;
+}
+#botao
+{
+    text-align: center;    
+}
+.button 
+{
+    text-decoration: none;
+    background-color: rgb(36, 213, 193);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: large;
+    box-shadow: 8px 10px 20px black; /*colocar sombreamento */
+}
+
+#contato
+{
+    text-align: left;
+    
+}
+.contato
+{
+
+    Width: 300px;
+    Height:100px;
+    text-decoration: none;
+    background-color: rgb(36, 213, 193);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    color: rgb(25, 24, 24);
+    font-weight: bolder;
+    font-size: large;
+    box-shadow: 8px 10px 20px black; /*colocar sombreamento */
+}
+
+
+
+h3, h4,#habilidades,.res
+{
+    text-align: center;
+    margin: 10px;
+    color: rgb(226, 63, 4);
+}
+
+
+#habilidades
+{
+    text-align: center;
+    color: rgb(226, 63, 4);
+}
+
+
+
+h4
+{
+    
+    text-align: left ;
+    color: rgb(14, 13, 12);
+}
+
+
+h5
+{
+    text-align: left ;
+    color: rgb(218, 19, 19);
+}
+#btn
+{
+    text-align: center;
+    margin: 25px;
+}
+.dropdown
+{
+    margin: 20px;
+    display: inline;
+}                   
+
+ul
+{ 
+    text-align: center;   
+    list-style: none; 
+    padding-bottom: 10px;
+    padding-top: 10px
+}
+
+
+#home
+{
+    position: fixed;/* posição do botão home fixa */
+    left: 150px;
+    bottom: 520px;
+}
+#progress-bar-warning
+{
+    background-color: #fd8a24;
+}
+#progress-bar-danger
+{
+    background-color: green;
+}
+.intermediario
+{
+    background-color: #fd8a24;
+}
+#css, #html, #js
+{
+    background-color: #1ed00e;
+    border-radius: 5px;
+    box-shadow: 8px 10px 20px black;
+
+}
+#c,#c,#python,#php,#ruby,#typescript,#sql,#java
+{
+    border-radius: 5px;
+    box-shadow: 8px 10px 20px rgb(9, 9, 9); 
+
+}
+
